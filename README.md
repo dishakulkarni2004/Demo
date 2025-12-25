@@ -1,4 +1,4 @@
 # Demo
 This is my first Git repository
 <br>
-Author-Disha Kulkarni
+Author-Disha Dilipkumar Kulkarni
